@@ -113,7 +113,7 @@ mvn test
 ```
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/abidmuin/spring-rest-service/blob/master/LICENSE.md) file for details.
 
 ## Author
 [Abid Hasan Muin](https://github.com/abidmuin/spring-rest-service/blob/master/Dockerfile)
